@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hola hola hola ESPAGNOLA
 
 
@@ -14,3 +15,12 @@ tfgyubh6
 
 
 git-flow
+=======
+tfgyubh6 h
+
+ola hola holalalalalalaalalalllaallaallaallaal
+
+
+
+bastaaaa, sono stanco e non cela faccio piu'!!!!!!!!!!!!
+>>>>>>> refs/heads/release/Release-1
